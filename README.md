@@ -1,5 +1,4 @@
-```markdown
-#April Fools' Fake News Website
+# April Fools' Fake News Website
 
 Welcome to our April Fools' Fake News Website repository! This project is a lighthearted prank designed for April Fools' Day, where we create a mock news website filled with humorous and completely fabricated stories. The aim is to entertain and bring a smile to people's faces on this playful occasion.
 
